@@ -1,0 +1,20 @@
+html{
+    background-color:beige;
+    
+}
+.navbar{
+padding: 22px;
+margin: 0px;
+font-size: larger;
+background-color:rgb(1, 177, 177);
+overflow: hidden;
+display: block;
+text-align: center;
+overflow: hidden;
+
+}
+.navbar li{
+    float: 10;
+    margin: 10px;
+    
+}
